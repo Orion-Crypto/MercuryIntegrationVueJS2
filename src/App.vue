@@ -8,7 +8,7 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import MercuryChat from '@mercury-chat/vue-chat-previous';
+import { MercuryChat } from '@mercury-chat/vue-chat-previous';
 
 export default {
   name: 'App',

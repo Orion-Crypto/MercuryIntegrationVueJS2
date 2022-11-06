@@ -27,7 +27,7 @@ After this we need to add this to our application (you can remove the HelloWorld
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import MercuryChat from '@mercury-chat/vue-chat-previous';
+import { MercuryChat } from '@mercury-chat/vue-chat-previous';
 
 export default {
   name: 'App',
